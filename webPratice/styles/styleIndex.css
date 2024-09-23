@@ -1,0 +1,33 @@
+*{
+    /* border: solid red 2px; */
+    font-family: fantasy;
+}
+
+body{
+    background-color: bisque;
+    /* border: solid green 2px; */
+}
+
+.links{
+    background-color: rgb(185, 185, 185);
+    padding: 8px;
+}
+
+a{
+    text-decoration: none;
+    color: brown;
+}
+
+h1{
+    background-color: antiquewhite;
+    /* border: solid blue 2px; */
+    text-align: center;
+}
+
+
+.Description{
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
