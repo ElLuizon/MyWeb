@@ -1,0 +1,21 @@
+*{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+/* Header configurations */
+.header-links{
+    background-color: rgb(185, 185, 185);
+    padding: 8px;
+    margin: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: brown;
+    margin: 16px;
+}
+
+/* Body configurations */
+body{
+    background-color: bisque;
+}
